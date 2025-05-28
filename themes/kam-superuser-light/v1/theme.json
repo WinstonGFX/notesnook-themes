@@ -1,0 +1,140 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetwriters/notesnook-themes/main/schemas/v1.schema.json",
+  "name": "KAM Superuser Light",
+  "id": "kam-superuser-light",
+  "version": 1,
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://winstongfx.com",
+  "description": "KAM Superuser Light theme. Inspired by KAM Superuser keycaps designed by FreshFromTheGrave.",
+  "colorScheme": "light",
+  "compatibilityVersion": 1,
+  "authors": [
+    {
+      "name": "Mike Winston",
+      "email": "WinstonGFX@proton.me",
+      "url": "https://winstongfx.com"
+    }
+  ],
+  "scopes": {
+    "base": {
+      "primary": {
+        "accent": "#252A36",
+        "paragraph": "#252a36",
+        "background": "#E3F2E7",
+        "border": "#8ACCA1",
+        "heading": "#252A36",
+        "icon": "#435664",
+        "separator": "#8ACCA1",
+        "placeholder": "#f7fcf8",
+        "hover": "#f7fcf8",
+        "accentForeground": "#435664",
+        "backdrop": "#435664"
+      },
+      "secondary": {
+        "accent": "#8ACCA1",
+        "paragraph": "#435664",
+        "background": "#8ACCA1",
+        "border": "#8ACCA1",
+        "heading": "#252A36",
+        "icon": "#E3F2E7",
+        "separator": "#8ACCA1",
+        "placeholder": "#252A36",
+        "hover": "#435664",
+        "accentForeground": "#E3F2E7",
+        "backdrop": "#435664"
+      },
+      "disabled": {
+        "accent": "#FFDE31",
+        "paragraph": "#F59188",
+        "background": "#E3F2E7",
+        "border": "#252A36",
+        "heading": "#252A36",
+        "icon": "#B4B4B5",
+        "separator": "#F59188",
+        "placeholder": "#F59188",
+        "hover": "#E3F2E710",
+        "accentForeground": "#E3F2E7",
+        "backdrop": "#0c0c0c"
+      },
+      "selected": {
+        "accent": "#252A36",
+        "paragraph": "#252A36",
+        "background": "#8ACCA1",
+        "border": "#B4B4B5",
+        "heading": "#252A36",
+        "icon": "#B4B4B5",
+        "separator": "#252A36",
+        "placeholder": "#252A36",
+        "hover": "#f7fcf8",
+        "accentForeground": "#E3F2E7",
+        "backdrop": "#0c0c0c"
+      },
+      "error": {
+        "accent": "#F15D4E",
+        "paragraph": "#F15D4E",
+        "background": "#250b0a",
+        "border": "#252A36",
+        "heading": "#F15D4E",
+        "icon": "#F15D4E",
+        "separator": "#252A36",
+        "placeholder": "#252A36",
+        "hover": "#E3F2E710",
+        "accentForeground": "#E3F2E7",
+        "backdrop": "#0c0c0c"
+      },
+      "success": {
+        "accent": "#38B068",
+        "paragraph": "#38B068",
+        "background": "#252A36",
+        "border": "#252A36",
+        "heading": "#38B068",
+        "icon": "#38B068",
+        "separator": "#252A36",
+        "placeholder": "#252A36",
+        "hover": "#E3F2E710",
+        "accentForeground": "#E3F2E7",
+        "backdrop": "#0c0c0c"
+      }
+    },
+    "list": {
+      "primary": {
+        "border": "#8ACCA1",
+        "separator": "#8ACCA1"
+      },
+      "selected": {
+        "paragraph": "#252A36"
+      }
+    },
+    "editor": {
+      "primary": {
+        "placeholder": "#8ACCA1"
+      }
+    },
+    "editorToolbar": {
+      "primary": {
+        "icon": "#435664"
+      },
+      "secondary": {
+        "hover": "#f7fcf8"
+      }
+    },
+    "navigationMenu": {
+      "primary": {
+        "border": "#8ACCA1",
+        "icon": "#435664",
+        "separator": "#8ACCA1",
+        "hover": "#f7fcf8"
+      },
+      "selected": {
+        "paragraph": "#252A36",
+        "icon": "#252A36",
+        "hover": "#f7fcf8"
+      }
+    },
+    "sheet": {
+      "selected": {
+        "paragraph": "#008837"
+      }
+    }
+  }
+}
