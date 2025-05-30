@@ -20,20 +20,20 @@
       "primary": {
         "accent": "#252A36",
         "paragraph": "#252a36",
-        "background": "#E3F2E7",
+        "background": "#f7fcf8",
         "border": "#8ACCA1",
         "heading": "#252A36",
-        "icon": "#435664",
+        "icon": "#8ACCA1",
         "separator": "#8ACCA1",
         "placeholder": "#f7fcf8",
         "hover": "#f7fcf8",
-        "accentForeground": "#435664",
+        "accentForeground": "#8ACCA1",
         "backdrop": "#435664"
       },
       "secondary": {
-        "accent": "#8ACCA1",
+        "accent": "#E3F2E7",
         "paragraph": "#435664",
-        "background": "#8ACCA1",
+        "background": "#E3F2E7",
         "border": "#8ACCA1",
         "heading": "#252A36",
         "icon": "#E3F2E7",
@@ -57,9 +57,9 @@
         "backdrop": "#0c0c0c"
       },
       "selected": {
-        "accent": "#252A36",
+        "accent": "#8ACCA1",
         "paragraph": "#252A36",
-        "background": "#8ACCA1",
+        "background": "#E3F2E7",
         "border": "#B4B4B5",
         "heading": "#252A36",
         "icon": "#B4B4B5",
